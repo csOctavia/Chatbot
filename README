@@ -1,0 +1,9 @@
+The program was developed with Python 3.8.10. It uses f-strings, so at least version 3.6 is required.
+
+Running the program:
+python3 weatherbot.py
+
+Installing the imports, if necessary:
+pip install -r requirements.txt
+
+An internet connection is required and the OpenWeather service must be functional.
