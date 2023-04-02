@@ -1,3 +1,6 @@
+##“The Weatherbot” is a console-based program that answers weather-related questions and identifies greetings and requests for small talk by performing information retrieval and question matching. 
+To read a more detailed presentation of this project, check the 'Chatbot Report' pdf file attached.
+
 The program was developed with Python 3.8.10. It uses f-strings, so at least version 3.6 is required.
 
 Running the program:
